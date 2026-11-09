@@ -4,5 +4,6 @@
   "MicrosoftTelemetryConnectionString": "",
   "templateUrl": "https://github.com/businesscentralapps/tmpWnfEPT-PTE@main",
   "doNotPublishApps": true,
-  "useCompilerFolder": true
+  "useCompilerFolder": true,
+  "templateSha": "048dfec2790d623e86178936e78f4ecf05bb96fe"
 }
